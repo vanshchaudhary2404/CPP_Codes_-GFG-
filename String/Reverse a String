@@ -1,4 +1,7 @@
 //Reverse a String
+#include <iostream> 
+using namespace std;
+int main(){
 class Solution {
   public:
     string revStr(const string& s) {
@@ -7,3 +10,5 @@ class Solution {
     return reversed;
 }
 };
+
+}
