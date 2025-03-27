@@ -1,5 +1,6 @@
 # CPP_Codes
-- DSA Problem on GFG (Geeks for geeks) in Cpp.
+- DSA Problem on GFG (Geeks for geeks).
+- Language Used C++
  ## 1. Strings
 
   - Reverse a String
